@@ -8,7 +8,7 @@ Challenges that occured during this project include:
 1. Selecting rows of data that were note adjacent to each other to create the chart that only showed "Percentage of Outcomes". I first attempted tackling this data by selcting the **select data** however was still not able to select the data that I needed. After searching for [how to select nonadjacent rows](www.google.com) I was able to select the rows I needed. 
 2. Manipulating the pivot table to t
  
-testing
+
 
 
 
